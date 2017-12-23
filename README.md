@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Demo is showing the use of RailsDB.
+It is accompanied with the article I wrote in [Medum][MED] introducing the use of RubyGems.
 
-Things you may want to cover:
+The live demo is [here][DEMO].
 
-* Ruby version
+[MED]: <https://medium.com/實用的rubygems/rails-db-瀏覽器內的dbms-2848d663b029>
+[DEMO]: <https://demo-rails-db.herokuapp.com>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
