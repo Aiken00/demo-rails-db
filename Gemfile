@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.5.1'
+ruby '2.6.2'
 
 git_source(:github) do |repo_name|
   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
@@ -43,7 +43,7 @@ gem 'faker'
 gem 'activerecord-import'
 gem 'annotate'
 gem 'hamlit'
-gem 'bootstrap', '>= 4.1.2'
+gem 'bootstrap', '~> 4.3.1'
 gem "lograge"
 
 group :development, :test do
